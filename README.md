@@ -13,10 +13,10 @@ Here is a list of some of our services:
 - USSD Application Development
 - IT support & Consultant
 
-If you are interested, you can contact us anytime on our email: hi@aionem.net, and visit our website www.aionem.net and follow us on our social media as AIONEM.NET
+If you are interested, you can contact us anytime on our email: it@aionem.net, and visit our website www.aionem.net and follow us on our social media as AIONEM.NET
 
 Website: www.aionem.net
-Email: hi@aionem.net
+Email: it@aionem.net
 Instagram: instagram.com/AIONEM_NET
 Twitter: twitter.com/AIONEM_NET
 Facebook: facebook.com/AIONEM.NET
