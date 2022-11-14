@@ -15,13 +15,13 @@ Here is a list of some of our services:
 
 If you are interested, you can contact us anytime on our email: it@aionem.net, and visit our website www.aionem.net and follow us on our social media as AIONEM.NET
 
-Website: www.aionem.net
-Email: it@aionem.net
-Instagram: instagram.com/AIONEM_NET
-Twitter: twitter.com/AIONEM_NET
-Facebook: facebook.com/AIONEM.NET
-WhatsApp: +250787661406
+- Website: www.aionem.net
+- Email: it@aionem.net
+- Instagram: instagram.com/AIONEM_NET
+- Twitter: twitter.com/AIONEM_NET
+- Facebook: facebook.com/AIONEM.NET
+- WhatsApp: +250787661406
 
 Thank you
 
-AIONEM.NET Team
+AIONEM.ɴᴇᴛ Team
