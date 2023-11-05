@@ -17,11 +17,11 @@ If you are interested, you can contact us anytime on our email: it@aionem.net, a
 
 - Website: www.aionem.net
 - Email: it@aionem.net
-- Instagram: instagram.com/AIONEM_NET
-- Twitter: twitter.com/AIONEM_NET
-- Facebook: facebook.com/AIONEM.NET
+- Instagram: instagram.com/AIONEM_net
+- Twitter: twitter.com/AIONEM_net
+- Facebook: facebook.com/AIONEM.net
 - WhatsApp: +250787661406
 
 Thank you
 
-AIONEM.ɴᴇᴛ Team
+AIONEM.net Team
